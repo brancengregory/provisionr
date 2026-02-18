@@ -12,3 +12,5 @@ Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.2
 URL: https://github.com/brancengregory/provisionr
 BugReports: https://github.com/brancengregory/provisionr/issues
+Imports: 
+    processx
